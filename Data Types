@@ -1,0 +1,19 @@
+Execute the below code and write your description in txt file?
+
+typeof(1) - Number // Numerical values
+
+typeof(1.1) - Integer //Integer values
+
+typeof(‘1.1’) - String  //Strings are written with quotes. You can use      single or double quotes:
+
+typeof(true) - Boolean // It has two vales either true or false
+
+typeof(null) -  No value
+
+typeof(undefined) -  A Variable without a value is undefined
+
+typeof([]) - Array  //An array can hold many values under a single name
+
+typeof({}) - Object // It can have multiple data values in it. It is represented in pairs with syntax name: values
+
+typeof(NaN) - Not a number
